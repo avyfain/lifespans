@@ -15,4 +15,4 @@ This chart shows a similar overall trend, but in fact it also reveals other deta
 
 Additionally, another piece that caught my eye were the very obvious drops during WWI and WWII, which are also missing in Collison's original chart.
 
-I can't explain why our pre-1400 trends are so different, or why mine shows a cyclic pattern, so if you have ideas, or can point out any issues in the [code](Lifespan%20by%20Year.ipynb), let me know!
+I can't explain why our pre-1400 trends are so different, or why mine shows a cyclic pattern, so if you have ideas, or can point out any issues in the [code](Lifespans%20over%20time.ipynb), let me know!
